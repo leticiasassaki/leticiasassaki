@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Leticia Sassaki Kawamoto, atualmente sou desenvolvedora .NET.<br>
+  Meu nome é Leticia Sassaki Kawamoto, atualmente sou Head de Engenharia<br>
   Sempre buscando aprender mais sobre novas tecnologias.
 </p>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Azure Devops, Azure Cloud, Visual Studio, VS Code</strong>
+  💼 Ferramentas: <strong>Azure Devops, Azure Cloud, AWS, Visual Studio, VS Code</strong>
 </p>
 
 <p align="left">
